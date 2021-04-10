@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body .lista-estilos {
+  list-style: none;
+}
+body .estilos {
+  background-color: #1d1b18;
+  color: white;
+}
+body .font-1 {
+  font-size: larger;
+}
+body #pergamino {
+  background-image: url(../Imagenes/2728-antiguo.jpg);
+  background-color: #cccc;
+}
+body #contenedor-2 {
+  font-size: -webkit-xxx-large;
+  font-family: math;
+  color: #d26c23;
+}
+body #clases {
+  font-size: -webkit-xxx-large;
+  font-family: math;
+  color: yellow;
+}
+body .rojo {
+  color: red;
+}
+body .morado {
+  color: magenta;
+}
+body .naranja {
+  color: orange;
+}
+body .Darkgreen {
+  color: green;
+}
+body .verde {
+  color: greenyellow;
+}
+body .amarillo {
+  color: yellow;
+}
+body .celeste {
+  color: aqua;
+}
+body .blanco {
+  color: white;
+}
+body .rosado {
+  color: pink;
+}
+body .azul {
+  color: blue;
+}
+body .morado {
+  color: mediumslateblue;
+}
+body .marron {
+  color: brown;
+}
+body div .Contenedor-C {
+  width: 775px;
+  height: 300px;
+}
+body div .Contenedor-B {
+  width: 250px;
+}
+body div .item-1,
+body div .item-2,
+body div .item-3,
+body div .item-4 {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: auto auto auto;
+}
+body .font-faciones {
+  font-size: xx-large;
+}
+body .font-razas {
+  font-size: larger;
+}
+body #O, body #T, body #B, body #TA, body #GB, body #U, body #H, body #E, body #G, body #D, body #HU, body #N {
+  padding-top: 15%;
+}
+body #horda, body #ali {
+  padding-top: 10%;
+}
+
+/*# sourceMappingURL=style.css.map */

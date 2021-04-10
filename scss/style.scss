@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    .lista-estilos {
+        list-style: none;
+    }
+
+
+    .estilos {
+        background-color: #1d1b18;
+        color: white;
+    }
+
+    .font-1 {
+        font-size: larger;
+    }
+
+    #pergamino {
+        background-image: url(../Imagenes/2728-antiguo.jpg);
+        background-color: #cccc;
+    }
+
+    #contenedor-2 {
+        font-size: -webkit-xxx-large;
+        font-family: math;
+        color: #d26c23;
+    }
+
+    #clases {
+        font-size: -webkit-xxx-large;
+        font-family: math;
+        color: yellow;
+    }
+
+    .rojo {
+        color: red;
+    }
+
+    .morado {
+        color: magenta;
+    }
+
+    .naranja {
+        color: orange;
+    }
+
+    .Darkgreen {
+        color: green;
+    }
+
+    .verde {
+        color: greenyellow;
+    }
+
+    .amarillo {
+        color: yellow;
+    }
+
+    .celeste {
+        color: aqua;
+    }
+
+    .blanco {
+        color: white;
+    }
+
+    .rosado {
+        color: pink;
+    }
+
+    .azul {
+        color: blue;
+    }
+
+    .morado {
+        color: mediumslateblue;
+    }
+
+    .marron {
+        color: brown;
+    }
+
+    div {
+
+        .Contenedor-C {
+            width: 775px;
+            height: 300px;
+        }
+
+        .Contenedor-B {
+            width: 250px;
+        }
+
+        .item-1,
+        .item-2,
+        .item-3,
+        .item-4 {
+            display: grid;
+            grid-gap: 50px;
+            grid-template-columns: auto auto auto;
+        }
+    }
+
+    .font-faciones{
+        font-size: xx-large;
+    }
+
+    .font-razas {
+        font-size: larger;
+    }
+
+    #O, #T, #B, #TA, #GB, #U, #H, #E, #G, #D, #HU, #N {
+        padding-top: 15%;
+    }
+
+    #horda, #ali {
+        padding-top: 10%;
+    }
+
+}
